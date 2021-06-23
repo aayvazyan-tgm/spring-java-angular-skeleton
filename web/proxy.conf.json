@@ -1,0 +1,7 @@
+{
+  "/": {
+    "target": "https://remote.server.replaceme",
+    "secure": false,
+    "changeOrigin": true
+  }
+}
